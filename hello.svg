@@ -1,3 +1,5 @@
 <svg width="200" height="200">
+  <rect width="200" height="200" fill="#ace" stroke-width="0" />
 <circle cx="100" cy="100" r="40" fill="red" stroke-width="0" />
 </svg>
+
